@@ -1,1 +1,27 @@
+body {
+  background-color:#DDEDAA;
+}
+
+h1 { 
+text-align:center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align:left;
+}
+
+
+span.note {
+  font-size: 120%;
+  color: red;
+}
+h1{
+  font-size:60px
+}
+
 
