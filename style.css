@@ -28,7 +28,7 @@ ul.nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #DDEDAA;
+  background-color: #333;
 }
 
 li {
@@ -44,5 +44,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #DDEDAA;
+  background-color: #111;
 }
